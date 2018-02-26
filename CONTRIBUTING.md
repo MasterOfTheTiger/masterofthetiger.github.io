@@ -13,5 +13,6 @@ I do not recommend forking this website for your own personal website. Instead, 
 ## Stability
 If for some reason something on the site is broken because of your changes, they need to be fixed before being merged.
 
+There really should not be much that needs to be changed by anyone but me. Best thing you can do is open an issue. 
 
 If your changes follow those guidelines, they will likely be accepted.
