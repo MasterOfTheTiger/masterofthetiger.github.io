@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.error {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    color: orange;
+}
+a {
+    color: orangered;
+}
+a:hover {
+    color: orange;
+}
