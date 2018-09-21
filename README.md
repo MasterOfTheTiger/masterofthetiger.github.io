@@ -1,11 +1,11 @@
-# masterofthetiger.github.io
-My website. I used to host it with x10hosting.com, but now I am using GitHub Pages. 
+# MasterOfTheTiger's website
 
-View it at http://mtiger.tk
-
-This website contains a lot of my projects and profiles across the web. It is a basic introduction to me and my programming skills. 
-[My blog](https://masterofthetiger.blogspot.com), on the other hand, contains updates on what I am working on. 
+This is my website. I use it to show my work. I used to use a template for it, but this version is entirely made by me. 
 
 ## Copying
-All rights reserved. You may not copy any of this website or modify it without prior written permission from MasterOfTheTiger. If you would like to use this as a template please go to the actual creator of the template at [htmlcoder.me](http://htmlcoder.me/).
+Copyright (c) 2018 MasterOfTheTiger. All rights reserved. Unless otherwise stated in an individual file or project you may not copy this website or anything that it links to for any reason in any way without my prior permission. 
 
+### Other software
+Any other software used in my website is listed below and has its license listed next to it.
+
+- MOTT.css. My CSS library. It uses normalize.css. Both are MIT licensed. 
