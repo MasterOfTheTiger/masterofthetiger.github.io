@@ -57,3 +57,7 @@ footer {
 .place img {
     height: 100px;
 }
+
+#comments {
+    color: white;
+}
