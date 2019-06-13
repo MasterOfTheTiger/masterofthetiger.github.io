@@ -10,27 +10,32 @@ a {
     color: lightblue;
     text-decoration: none;
 }
-
-.sidebar {
-    float: right;
-    border-color: #7F7F7F;
-    border-style: solid;
-    position: fixed;
-    width: 10%;
-    left: 5;
-    padding: 5px;
-    overflow: auto;
+a:hover {
+    text-decoration: underline;
 }
 
-.content {
+#headlinks div a:hover {
+    font-style: italic;
+    font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+}
+
+.groups {
     /*margin: 20px;*/
-    padding: 10px;
+    padding: 10px 20px;
     border-style: solid;
     border-width: 2px;
     border-color: #7F7F7F;
     width: 70%;
     margin: auto;
-    
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.groups:last-of-type {
+    margin-bottom: 10px;
 }
 
 header {
