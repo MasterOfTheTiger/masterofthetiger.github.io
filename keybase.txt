@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/masterofthetiger
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mtiger.xyz
+  * I am masterofthetiger (https://keybase.io/masterofthetiger) on keybase.
+  * I have a public key ASBY150SKgpMVHAG4-1xzAOVmKS6MKmM3caOp1tamvCRego
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012058d79d122a0a4c547006e3ed71cc039598a4ba30a98cddc68ea75b5a9af0917a0a",
+      "host": "keybase.io",
+      "kid": "012058d79d122a0a4c547006e3ed71cc039598a4ba30a98cddc68ea75b5a9af0917a0a",
+      "uid": "d030663d330babffc4bbe345e8106819",
+      "username": "masterofthetiger"
+    },
+    "merkle_root": {
+      "ctime": 1562769509,
+      "hash": "b9bbb455de97fa5f9df8349fdf7585edc3d8abf2dab164bb867a7a2ea8457beadc6152749cdd6eb1c9b4c225d9bac2c95e46a9d759e370708e714f81f99a64fd",
+      "hash_meta": "f7f85d43a8be1e0a6eeabb45a97766cc332d5baca8bc1ed89dcd3cb74ef4bea8",
+      "seqno": 5730307
+    },
+    "service": {
+      "entropy": "jubRM/yQiRUA/QE/upScI3Yt",
+      "hostname": "mtiger.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1562769536,
+  "expire_in": 504576000,
+  "prev": "57d3fa4b2c03e753049ec078bf482363887f6579275827bc2b451e16f1dba88b",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgWNedEioKTFRwBuPtccwDlZikujCpjN3GjqdbWprwkXoKp3BheWxvYWTESpcCBcQgV9P6SywD51MEnsB4v0gjY4h/ZXknWCe8K0UeFvHbqIvEIKwwrYrdOjkph/2DMIygJV/57sIvgaEtp/Mx0Rdn1LaOAgHCo3NpZ8RAEXVwF38VqneHcCQOJwkRiBpJf7CPLOd1L/PAwdyjkDMhbAdYZHyHZK7XRqTDM6ly2OzwJekgEEzuaLUzaeJpCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIA3pp7573UT+5Yus75dw2CUK6aGVa6sV3O8PMtBc/0Pqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/masterofthetiger
+
+==================================================================
